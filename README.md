@@ -1,2 +1,3 @@
-# CS133_SP26_datafile
-Data and files for CS 133 Spring 2026
+# SJSU CS 133
+This repository contains data files and colab notebooks for the CS 133 Data Visualization course at San Jose State University.
+
